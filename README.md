@@ -1,6 +1,7 @@
-### Hi there 👋
+## Hi there 👋
 
-I'm a Web Developer from Southwest UK, currently learning React.
+### I'm a Web Developer from Plymouth, UK. Currently focused on getting better at JavaScript and learning React.
+
 <!--
 **jakeRPowell/jakeRPowell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
